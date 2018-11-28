@@ -2,4 +2,6 @@
 
 目前测试过ubuntu 16.04, 18.04 
 
-Thanks to https://github.com/teddysun/shadowsocks_install
+#### Thanks   
+* https://github.com/shadowsocks/shadowsocks-go
+* https://github.com/teddysun/shadowsocks_install
